@@ -18,6 +18,5 @@ By providing a user defined list of the funds' ISIN's together with the number o
 ## Portfolio Analysis
 The gathered information is converted into the user-defined reporting currency. Therefore the web driver is scraping current spot rates published by ECB. Via various visualizations and underlying tables the portfolio is being depicted, allowing for informed decisions for further portfolio construction.
 
-**Python Version:** 3.7
-
+**Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
