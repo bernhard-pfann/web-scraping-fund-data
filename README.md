@@ -5,7 +5,7 @@
 - Scraped publicly available fx rates from ECB to convert financials into common reporting currency
 
 ## Web Scraping
-By providing a user defined list of funds' ISIN together with the number of certificates in the portfolio, the web driver is scraping detailed information of the respective instruments. Following data points can thereby be automatically retrieved:
+By providing a user defined list of the funds' ISIN's together with the number of fund certificates, the web driver is scraping detailed information of the respective instruments. Following data points can thereby be automatically retrieved:
 
 - NAV
 - Historical performance
