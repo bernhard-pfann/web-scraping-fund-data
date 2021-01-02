@@ -1,5 +1,4 @@
 # Web Scraping Fund Data &amp; Portfolio Analysis
----
 
 - Created a tool that shows stratifications of a user-defined fund portfolio
 - Scraped publicly available fund data from webpage www.fondsprofessionell.at
