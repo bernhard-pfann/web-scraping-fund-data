@@ -21,4 +21,4 @@ The gathered information is converted into the user-defined reporting currency. 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, datetime, selenium, webdriver-manager, matplotlib
 
-<img src="https://github.com/bernhard-pfann/web-scraping-fund-data/blob/main/output/return.png" width="300">
+<img src="https://github.com/bernhard-pfann/web-scraping-fund-data/blob/main/output/return.png" width="500">
