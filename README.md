@@ -23,6 +23,6 @@ The gathered information is converted into the user-defined reporting currency. 
 
 <p align="center">
   <img src="https://github.com/bernhard-pfann/web-scraping-fund-data/blob/main/output/return.png" width="600">
-  <br>
+  <br><br>
   <img src="https://github.com/bernhard-pfann/web-scraping-fund-data/blob/main/output/sectors.png" width="600">  
 </p>
